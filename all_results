@@ -1,0 +1,2 @@
+seed =   2806 page_rep_algo =   AGING search_algo =    quicksort pagesize =    8 pagefaults    533, 
+seed =    225 page_rep_algo =   AGING search_algo =    quicksort pagesize =    8 pagefaults    490, 
